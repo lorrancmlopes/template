@@ -12,7 +12,6 @@ O site da disciplina faz uso do mkdocs com o tema material, para instalar, execu
 
 ``` sh
 pip install -r requirements.txt
-pip install mkdocs-minify-plugin>=0.2
 ```
 
 ## Exemplo
