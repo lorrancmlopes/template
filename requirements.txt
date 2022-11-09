@@ -4,3 +4,4 @@ Pygments
 markdown
 pymdown-extensions
 mkdocs-material
+mkdocs-minify-plugin
