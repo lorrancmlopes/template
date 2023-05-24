@@ -1,5 +1,5 @@
 
-site_name: 'Eletiva: Embarcados Avançados (SoC e Linux Embarcado)'
+site_name: 'Projeto: Computação em Nuvem - 2023.1'
 
 theme:
   features:
@@ -8,14 +8,15 @@ theme:
     - tabs: true
   name: 'material'
   palette:
-      primary: 'white'
+      primary: 'green'
       accent: 'pink'
   font:
     text: Roboto
     code: Roboto Mono
 
+
 # Copyright
-copyright: 'Copyright &copy; 2019 / Prof. Rafael Corsi / rafael.corsi@insper.edu.br'
+copyright: 'Copyright &copy; 2023 / Lorran Caetano Machado Lopes / lorrancml@al.insper.edu.br'
 
 # repo
 docs_dir: docs-src
